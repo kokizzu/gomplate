@@ -19,7 +19,7 @@ require (
 	github.com/johannesboyne/gofakes3 v0.0.0-20210415062230-4b6b67a85d38
 	github.com/joho/godotenv v1.3.0
 	github.com/pkg/errors v0.9.1
-	github.com/rs/zerolog v1.21.0
+	github.com/rs/zerolog v1.26.1
 	github.com/spf13/afero v1.6.0
 	github.com/spf13/cobra v1.1.3
 	github.com/stretchr/testify v1.7.0
@@ -27,8 +27,8 @@ require (
 	github.com/zealic/xignore v0.3.3
 	go.etcd.io/bbolt v1.3.5
 	gocloud.dev v0.22.0
-	golang.org/x/crypto v0.0.0-20210415154028-4f45737414dc
-	golang.org/x/sys v0.0.0-20210415045647-66c3f260301c
+	golang.org/x/crypto v0.0.0-20211215165025-cf75a172585e
+	golang.org/x/sys v0.0.0-20210809222454-d867a43fc93e
 	golang.org/x/term v0.0.0-20210406210042-72f3dc4e9b72
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	gotest.tools/v3 v3.0.3
