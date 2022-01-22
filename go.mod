@@ -27,10 +27,10 @@ require (
 	github.com/zealic/xignore v0.3.3
 	go.etcd.io/bbolt v1.3.5
 	gocloud.dev v0.22.0
-	golang.org/x/crypto v0.0.0-20210415154028-4f45737414dc
-	golang.org/x/sys v0.0.0-20210415045647-66c3f260301c
-	golang.org/x/term v0.0.0-20210406210042-72f3dc4e9b72
+	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
+	golang.org/x/sys v0.0.0-20210831042530-f4d43177bf5e
+	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	gotest.tools/v3 v3.0.3
-	k8s.io/client-go v0.21.0
+	k8s.io/client-go v0.23.2
 )
