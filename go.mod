@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/Masterminds/goutils v1.1.1
 	github.com/Shopify/ejson v1.2.2
-	github.com/aws/aws-sdk-go v1.38.21
+	github.com/aws/aws-sdk-go v1.43.12
 	github.com/docker/libkv v0.2.2-0.20180912205406-458977154600
 	github.com/fullsailor/pkcs7 v0.0.0-20190404230743-d7302db945fa
 	github.com/go-git/go-billy/v5 v5.1.0
@@ -28,8 +28,8 @@ require (
 	go.etcd.io/bbolt v1.3.5
 	gocloud.dev v0.22.0
 	golang.org/x/crypto v0.0.0-20210415154028-4f45737414dc
-	golang.org/x/sys v0.0.0-20210415045647-66c3f260301c
-	golang.org/x/term v0.0.0-20210406210042-72f3dc4e9b72
+	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
+	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	gotest.tools/v3 v3.0.3
 	k8s.io/client-go v0.21.0
